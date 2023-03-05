@@ -47,10 +47,9 @@ As a data scientist, I bring a unique combination of technical skills and busine
 Python, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ - [Processs...](https://bunyaminergen.github.io/)
+ - [Processs...](https://bunyaminergen.github.io/)
+ - [Processs...](https://bunyaminergen.github.io/)
 
 ## Appendix
 
