@@ -13,7 +13,9 @@ As a data scientist, I bring a unique combination of technical skills and busine
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bunyaminnergen){:target="_blank"}
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge)](https://medium.com/@bunyaminergen){:target="_blank"}
+<a href="medium-link" target="_blank" onclick="window.open('medium-link'); return false;">
+  <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge" alt="Medium Badge">
+</a>
 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge&logoWidth=50&logoHeight=30)](https://www.kaggle.com/bunyaminergen){:target="_blank"}
 
