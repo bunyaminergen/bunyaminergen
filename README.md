@@ -4,8 +4,6 @@
 
 As a data scientist, I bring a unique combination of technical skills and business acumen to my work. I have experience using advanced statistical techniques and machine learning algorithms to analyze large data sets and extract valuable insights. I have a strong background in programming languages such as Python and SQL, and am well-versed in tools such as Tensorflow, Keras, and Scikit-learn. I am also experienced in data visualization and can effectively communicate complex findings to both technical and non-technical audiences. My goal is to use my skills to drive business growth and improve decision-making for my clients and employer.
 
-[Google](https://www.google.com{:target="_blank" rel="noopener"})
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/)
 
