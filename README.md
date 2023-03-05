@@ -25,7 +25,7 @@ As a data scientist, I bring a unique combination of technical skills and busine
 
 [![Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome&logoColor=white&link=website-link&style=for-the-badge)](https://bunyaminergen.com/)
 
-[![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com)
+[![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
