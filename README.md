@@ -15,10 +15,9 @@ As a data scientist, I bring a unique combination of technical skills and busine
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge)](https://medium.com/@bunyaminergen)
 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge)](https://www.kaggle.com/bunyaminergen)
 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge&logoWidth=50&logoHeight=30)](https://www.kaggle.com/bunyaminergen)
-
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=youtube-link&style=for-the-badge&logoWidth=30)](https://www.youtube.com/bunyaminergen){target="_blank"}
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=youtube-link&style=for-the-badge&logoWidth=30)](https://www.youtube.com/bunyaminergen)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=instagram-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.instagram.com/bunyaminergen)
 
