@@ -6,25 +6,26 @@ As a data scientist, I bring a unique combination of technical skills and busine
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/){:target="_blank"}
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyaminergen/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyaminergen/){:target="_blank"}
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bunyaminnergen)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bunyaminnergen){:target="_blank"}
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge&logoWidth=&&logoHeight=)](https://medium.com/@bunyaminergen)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge&logoWidth=&&logoHeight=)](https://medium.com/@bunyaminergen){:target="_blank"}
 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge&logoWidth=50&logoHeight=30)](https://www.kaggle.com/bunyaminergen)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge&logoWidth=50&logoHeight=30)](https://www.kaggle.com/bunyaminergen){:target="_blank"}
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=youtube-link&style=for-the-badge&logoWidth=30)](https://www.youtube.com/bunyaminergen)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=youtube-link&style=for-the-badge&logoWidth=30)](https://www.youtube.com/bunyaminergen){:target="_blank"}
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=instagram-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.instagram.com/bunyaminergen)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=instagram-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.instagram.com/bunyaminergen){:target="_blank"}
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=facebook-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.facebook.com/bunyaminnergen)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=facebook-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.facebook.com/bunyaminnergen){:target="_blank"}
 
-[![Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome&logoColor=white&link=website-link&style=for-the-badge)](https://bunyaminergen.com/)
+[![Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome&logoColor=white&link=website-link&style=for-the-badge)](https://bunyaminergen.com/){:target="_blank"}
 
-[![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com)
+[![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com){:target="_blank"}
+
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
@@ -47,9 +48,9 @@ As a data scientist, I bring a unique combination of technical skills and busine
 Python, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS
 ## Acknowledgements
 
- - [Processs...](https://bunyaminergen.github.io/)
- - [Processs...](https://bunyaminergen.github.io/)
- - [Processs...](https://bunyaminergen.github.io/)
+ - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
+ - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
+ - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
 
 ## Appendix
 
@@ -66,7 +67,7 @@ This project is used by the following companies:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here){:target="_blank"}
 
 
 ## Roadmap
@@ -76,7 +77,7 @@ This project is used by the following companies:
 - Add more integrations
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png){:target="_blank"}
 
 
 ## FAQ
