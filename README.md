@@ -27,19 +27,19 @@ As a data scientist, I bring a unique combination of technical skills and busine
 [![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on **Rare Diseases** ] at **sun4tech Company**
 
-🧠 I'm currently learning [ Linear Algebra ] & [ Advance Computer Vision Algoritms ]
+🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms**
 
 👯‍♀️ I'm looking to collaborate on...
 
 🤔 I'm looking for help with...
 
-💬 Ask me about anyting about [ Data ]
+💬 Ask me about anyting about **Data** anf course **my repositories**
 
 📫 How to reach me
 
-info@bunyaminergen.com
+mailto:info@bunyaminergen.com
 
 😄 Pronouns...
 
@@ -48,6 +48,7 @@ info@bunyaminergen.com
 
 ## 🛠 Skills
 Python, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS
+
 ## Acknowledgements
 
  - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
