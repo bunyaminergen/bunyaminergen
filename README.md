@@ -50,5 +50,5 @@ mailto:info@bunyaminergen.com
 ## 🛠 Skills
 Python, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS
 
-[![Coding](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/97639-coding.gif)]
+![Coding](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/coder.gif)
 
