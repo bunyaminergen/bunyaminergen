@@ -1,8 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-[Matrix SVG](https://assets5.lottiefiles.com/packages/lf20_0yfsb3a1.json)
-
-
+[Matrix SVG](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/97639-coding.gif)
 
 # Bünyamin Ergen 👋 
 ### Data Scientist & Computer Visionist
