@@ -20,6 +20,7 @@ As a data scientist, I bring a unique combination of technical skills and busine
 <a href="https://www.linkedin.com/in/bunyaminergen/">
   <img align="left" alt="Bunyamin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyaminergen/)
