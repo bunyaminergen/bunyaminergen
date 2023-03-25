@@ -1,6 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-[![Matrix SVG](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/97639-coding.gif)]
 
 # Bünyamin Ergen 👋 
 ### Data Scientist & Computer Visionist
@@ -52,52 +51,5 @@ mailto:info@bunyaminergen.com
 ## 🛠 Skills
 Python, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS
 
-## Acknowledgements
-
- - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
- - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
- - [Processs...](https://bunyaminergen.github.io/){:target="_blank"}
-
-## Appendix
-
-Any additional information goes here
-
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here){:target="_blank"}
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png){:target="_blank"}
-
-
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+[![Coding](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/97639-coding.gif)]
 
