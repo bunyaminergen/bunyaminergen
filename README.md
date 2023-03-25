@@ -1,4 +1,4 @@
-[![Matrix](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/matrix.svg)]
+![Matrix](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/matrix.svg)
 
 # Bünyamin Ergen 👋 
 ### Data Scientist & Computer Visionist
