@@ -1,5 +1,4 @@
-[![Matrix](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
+[![Matrix](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/matrix.svg)]
 
 # Bünyamin Ergen 👋 
 ### Data Scientist & Computer Visionist
