@@ -8,8 +8,18 @@ As a data scientist, I bring a unique combination of technical skills and busine
 ## 🔗 Links
 
 <a href="https://www.instagram.com/bunyaminergen/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  
+  <img align="left" alt="Bunyamin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+ 
+ </a>
+<a href="discordapp.com/users/236223041086947338">
+  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/bunyaminnergen">
+  <img align="left" alt="Bunyamin Ergen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bunyaminergen/">
+  <img align="left" alt="Bunyamin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyaminergen/)
