@@ -11,7 +11,7 @@ As a data scientist, I bring a unique combination of technical skills and busine
   <img align="left" alt="Bunyamin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
  
  </a>
-<a href="discordapp.com/users/236223041086947338">
+<a href="https://discord.gg/236223041086947338">
   <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
