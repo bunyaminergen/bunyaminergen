@@ -1,7 +1,7 @@
 ![Matrix](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/matrix.svg)
 
 # Bünyamin Ergen 👋 
-### Data Scientist & Computer Visionist
+### Data Scientist [Computer Vision & NLP ]
 
 As a data scientist, I bring a unique combination of technical skills and business acumen to my work. I have experience using advanced statistical techniques and machine learning algorithms to analyze large data sets and extract valuable insights. I have a strong background in programming languages such as Python and SQL, and am well-versed in tools such as Tensorflow, Keras, and Scikit-learn. I am also experienced in data visualization and can effectively communicate complex findings to both technical and non-technical audiences. My goal is to use my skills to drive business growth and improve decision-making for my clients and employer.
 
