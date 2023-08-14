@@ -42,7 +42,7 @@ As a data scientist, I bring a unique combination of technical skills and busine
 [![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on **Rare Diseases** ] at **sun4tech Company**
+👩‍💻 I'm currently working at **Lena Software Company**
 
 🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms**
 
