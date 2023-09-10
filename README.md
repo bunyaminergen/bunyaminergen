@@ -55,6 +55,7 @@ My ability to translate complex technical findings for both technical and non-te
 
 [![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
 
+## ℹ Information
 
 👩‍💻 I'm currently working at **Lena Software Company**
 
