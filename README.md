@@ -23,11 +23,11 @@ My ability to translate complex technical findings for both technical and non-te
 </a>
 
 <a href="https://www.instagram.com/bunyaminergen/">
-  <img align="left" alt="Bunyamin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Bunyamin's Instagram" width="22px" src="[https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/discord.svg)" />
  
  </a>
 <a href="https://discord.gg/236223041086947338">
-  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/discord1.svg" />
+  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
   <img align="left" alt="Bunyamin's Twitter | Twitter" width="100px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
