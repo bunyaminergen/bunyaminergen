@@ -78,6 +78,7 @@ mailto:info@bunyaminergen.com
   - Django REST Framework
   - Typescript
   - React
+  - RestAPI
 - **Data Science & Machine Learning:**
   - Machine Learning
   - Deep Learning
@@ -89,6 +90,9 @@ mailto:info@bunyaminergen.com
   - Data Analytics & Analysis
   - Data Visualization
   - Text Mining
+- **Prompt Engineering:**
+  - Prompt Design and Optimization
+  - Conversational AI Design
 - **Business & Analytics:**
    - Business Analytics
    - Business Intelligence (BI)
@@ -108,7 +112,7 @@ mailto:info@bunyaminergen.com
    - Photography
 - **Languages:**
   - Türkçe (Turkish)
-  - (عربي )Arabic
+  - عربي (Arabic)
   - English
   - 日本語 (Japanese)
 
