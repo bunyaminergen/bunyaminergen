@@ -12,7 +12,7 @@ As a data scientist, I bring a unique combination of technical skills and busine
  
  </a>
 <a href="https://discord.gg/236223041086947338">
-  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/discord.png" />
+  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/discord.svg" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
   <img align="left" alt="Bunyamin Ergen | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
