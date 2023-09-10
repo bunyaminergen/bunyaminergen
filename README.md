@@ -13,7 +13,6 @@ My ability to translate complex technical findings for both technical and non-te
 
 ### 🔗 Links
 
-![Linkedin](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg)
 <a href="https://www.linkedin.com/in/bunyaminergen/">
   <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
 </a>
@@ -30,7 +29,7 @@ My ability to translate complex technical findings for both technical and non-te
   <img align="left" alt="Bunyamin's Discord" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
-  <img align="left" alt="Bunyamin's Twitter | Twitter" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/x-twitter.svg" />
+  <img align="left" alt="Bunyamin's Twitter " width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/x-twitter.svg" />
 </a>
 
 <a href="https://bunyaminergen.github.io/">
@@ -127,6 +126,6 @@ mailto:info@bunyaminergen.com
   - English
   - 日本語 (Japanese)
 
-**---**
+**___**
 
 **_Bünyamin Ergen_**
