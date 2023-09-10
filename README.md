@@ -57,10 +57,10 @@ mailto:info@bunyaminergen.com
 ## 🛠 Skills
 
 - **Programming & Software Development:**
- - Python
- - JavaScript
- - SQL
- - R
+  - Python
+  - JavaScript
+  - SQL
+  - R
 - **Web Development:**
  - HTML & HTML5 & CSS
  - Django
