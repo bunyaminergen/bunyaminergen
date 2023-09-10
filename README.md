@@ -3,7 +3,14 @@
 # Bünyamin Ergen 👋 
 ### Python Developer & Data Scientist [Computer Vision & NLP ]
 
-As a data scientist, I bring a unique combination of technical skills and business acumen to my work. I have experience using advanced statistical techniques and machine learning algorithms to analyze large data sets and extract valuable insights. I have a strong background in programming languages such as Python and SQL, and am well-versed in tools such as Tensorflow, Keras, and Scikit-learn. I am also experienced in data visualization and can effectively communicate complex findings to both technical and non-technical audiences. My goal is to use my skills to drive business growth and improve decision-making for my clients and employer.
+Python Developer, Data Scientist, Prompt Engineer [Computer Vision & NLP]
+As a multifaceted professional with expertise in Python development, Data Science, Prompt Engineering, Computer Vision, and Natural Language Processing (NLP), my skill set is both broad and deep.
+
+In the realm of Python development, I specialize in crafting efficient, scalable back-end systems, and libraries. My data science endeavors involve the use of state-of-the-art machine learning algorithms and deep learning frameworks like Tensorflow and Keras to mine insights from large and complex data sets. As a prompt engineer, I focus on creating and optimizing conversational interfaces and AI-based chat systems, enhancing user experience and engagement.
+
+In the fields of Computer Vision and NLP, I apply my knowledge in AI and machine learning to develop intelligent systems that can understand, interpret, and respond to visual and textual data. I'm also proficient in SQL, enabling me to manipulate data effectively and build optimized data pipelines.
+
+My ability to translate complex technical findings for both technical and non-technical audiences allows me to act as a bridge between business and technology. My ultimate goal is to use my diverse skill set to drive business growth, improve decision-making processes, and solve complex problems for my clients and employers.
 
 ## 🔗 Links
 
