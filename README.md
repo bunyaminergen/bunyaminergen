@@ -13,6 +13,7 @@ My ability to translate complex technical findings for both technical and non-te
 
 ### 🔗 Links
 
+![Linkedin](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg)
 <a href="https://www.linkedin.com/in/bunyaminergen/">
   <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
 </a>
