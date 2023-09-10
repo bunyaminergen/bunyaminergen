@@ -58,10 +58,8 @@ My ability to translate complex technical findings for both technical and non-te
 
 
 <br/>
-
-<hr>
-
 <br/>
+---
 
 
 ### ℹ Information
