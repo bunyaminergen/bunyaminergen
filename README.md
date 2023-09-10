@@ -64,6 +64,13 @@ My ability to translate complex technical findings for both technical and non-te
 <br/>
 
 
+<br/>
+
+<hr>
+
+<br/>
+
+
 ### ℹ Information
 
 👩‍💻 I'm currently working at **Lena Software Company**
