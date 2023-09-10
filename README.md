@@ -1,4 +1,4 @@
-![Matrix](https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/matrix.svg)
+![Coding](https://github.com/bunyaminergen/bunyaminergen/blob/ef88835ff47f90ab7e7cd7c6d3192b8520b776df/img/coding.gif)
 
 # Bünyamin Ergen 👋 
 ### Python Developer & Data Scientist [Computer Vision & NLP ]
@@ -116,10 +116,6 @@ mailto:info@bunyaminergen.com
   - English
   - 日本語 (Japanese)
 
+**---**
 
-Python, Django, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS, Docker, AWS, RestAPI, NLP, Computer Vision, Prompt Engineering
-
-
-
-![Coding](https://github.com/bunyaminergen/bunyaminergen/blob/ef88835ff47f90ab7e7cd7c6d3192b8520b776df/img/coding.gif)
-
+**_Bünyamin Ergen_**
