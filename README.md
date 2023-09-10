@@ -12,7 +12,7 @@ In the fields of Computer Vision and NLP, I apply my knowledge in AI and machine
 My ability to translate complex technical findings for both technical and non-technical audiences allows me to act as a bridge between business and technology. My ultimate goal is to use my diverse skill set to drive business growth, improve decision-making processes, and solve complex problems for my clients and employers.
 
 ### 🔗 Links
-<div>
+
 <a href="https://www.linkedin.com/in/bunyaminergen/">
   <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
 </a>
@@ -55,12 +55,9 @@ My ability to translate complex technical findings for both technical and non-te
 <a href="mailto:info@bunyaminergen.com">
   <img align="left" alt="Bunyamin's E-Mail" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/envelope.svg" />
 </a>
+___
 
-</div>
-<br style="clear:both"/>
 
-<div>
-  
 ### ℹ Information
 
 👩‍💻 I'm currently working at **Lena Software Company**
