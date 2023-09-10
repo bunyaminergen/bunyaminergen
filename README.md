@@ -42,7 +42,7 @@ My ability to translate complex technical findings for both technical and non-te
 </a>
 
 <a href="https://www.kaggle.com/bunyaminergen">
-  <img align="left" alt="Bunyamin's Kaggle" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/kaggle.svg"/>
+  <img align="left" alt="Bunyamin's Kaggle" width="25px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/kaggle.svg"/>
 </a>
 
 <a href="https://www.youtube.com/bunyaminergen">
@@ -50,7 +50,7 @@ My ability to translate complex technical findings for both technical and non-te
 </a>
 
 <a href="https://www.facebook.com/bunyaminnergen">
-  <img align="left" alt="Bunyamin's Facebook" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/facebook.svg" />
+  <img align="left" alt="Bunyamin's Facebook" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/facebook.svg" />
 </a>
 
 [![Mail](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) 
