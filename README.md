@@ -53,9 +53,10 @@ My ability to translate complex technical findings for both technical and non-te
   <img align="left" alt="Bunyamin's Facebook" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/facebook.svg" />
 </a>
 
-[![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
+[![Mail](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) 
 
 <br>
+
 
 ## ℹ Information
 
