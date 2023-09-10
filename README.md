@@ -61,10 +61,6 @@ My ability to translate complex technical findings for both technical and non-te
 </a>
 
 
-<br/>
-<br/>
-
-
 ---
 
 
@@ -83,10 +79,6 @@ My ability to translate complex technical findings for both technical and non-te
 💬 Ask me about anyting about **Data** & **Python** & **Coding** and course **my repositories**
 
 📫 How to reach me: mailto:info@bunyaminergen.com
-
-
-<br/>
-<br/>
 
 
 ---
@@ -146,10 +138,6 @@ My ability to translate complex technical findings for both technical and non-te
   - عربي (Arabic)
   - English
   - 日本語 (Japanese)
-
-
-<br/>
-<br/>
 
 
 ---
