@@ -11,10 +11,11 @@ In the fields of Computer Vision and NLP, I apply my knowledge in AI and machine
 
 My ability to translate complex technical findings for both technical and non-technical audiences allows me to act as a bridge between business and technology. My ultimate goal is to use my diverse skill set to drive business growth, improve decision-making processes, and solve complex problems for my clients and employers.
 
-### 🔗 Links
-
 
 ---
+
+
+### 🔗 Links
 
 
 <a href="https://www.linkedin.com/in/bunyaminergen/">
