@@ -2,8 +2,6 @@
 
 # Bünyamin Ergen 🖥️ 
 
----
-
 
 ## Python Developer & Data Scientist [Computer Vision, NLP, Prompt Engineering]
 
