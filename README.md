@@ -59,7 +59,7 @@ My ability to translate complex technical findings for both technical and non-te
 </div>
 <br style="clear:both"/>
 
-
+<div>
 ## ℹ Information
 
 👩‍💻 I'm currently working at **Lena Software Company**
@@ -73,6 +73,7 @@ My ability to translate complex technical findings for both technical and non-te
 📫 How to reach me
 
 mailto:info@bunyaminergen.com
+</div>
 
 ## 🛠 Skills
 
