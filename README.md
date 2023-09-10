@@ -42,7 +42,7 @@ My ability to translate complex technical findings for both technical and non-te
 </a>
 
 <a href="https://www.kaggle.com/bunyaminergen">
-  <img align="left" alt="Bunyamin's Kaggle" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/github.svg"/>
+  <img align="left" alt="Bunyamin's Kaggle" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/kaggle.svg"/>
 </a>
 
 <a href="https://www.youtube.com/bunyaminergen">
