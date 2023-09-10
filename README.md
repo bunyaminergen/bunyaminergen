@@ -12,13 +12,13 @@ As a data scientist, I bring a unique combination of technical skills and busine
  
  </a>
 <a href="https://discord.gg/236223041086947338">
-  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/discord.png" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
-  <img align="left" alt="Bunyamin Ergen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Bunyamin Ergen | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/bunyaminergen/">
-  <img align="left" alt="Bunyamin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bunyamin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/)
