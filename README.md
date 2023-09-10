@@ -15,38 +15,38 @@ My ability to translate complex technical findings for both technical and non-te
 
 
 <a href="https://www.linkedin.com/in/bunyaminergen/">
-  <img align="left" alt="Bunyamin's Linkedin" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
+  <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
 </a>
 
 <a href="https://bunyaminergen.com/">
-  <img align="left" alt="Bunyamin's Website" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/window.svg" />
+  <img align="left" alt="Bunyamin's Website" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/window.svg" />
 </a>
 
 <a href="https://www.instagram.com/bunyaminergen/">
-  <img align="left" alt="Bunyamin's Instagram" width="22px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/instagram.svg" />
+  <img align="left" alt="Bunyamin's Instagram" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/instagram.svg" />
  
  </a>
 <a href="https://discord.gg/236223041086947338">
-  <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/discord.svg" />
+  <img align="left" alt="Bunyamin's Discord" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
-  <img align="left" alt="Bunyamin's Twitter | Twitter" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/twitter.svg" />
+  <img align="left" alt="Bunyamin's Twitter | Twitter" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/x-twitter.svg" />
 </a>
 
 <a href="https://bunyaminergen.github.io/">
-  <img align="left" alt="Bunyamin's Portfolio" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/github.svg" />
+  <img align="left" alt="Bunyamin's Portfolio" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/github.svg" />
 </a>
 
 <a href="https://medium.com/@bunyaminergen">
-  <img align="left" alt="Bunyamin's Medium" width="100px" src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge" />
+  <img align="left" alt="Bunyamin's Medium" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/medium.svg"/>
 </a>
 
 <a href="https://www.kaggle.com/bunyaminergen">
-  <img align="left" alt="Bunyamin's Kaggle" width="100px" src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge" />
+  <img align="left" alt="Bunyamin's Kaggle" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/github.svg"/>
 </a>
 
 <a href="https://www.youtube.com/bunyaminergen">
-  <img align="left" alt="Bunyamin's Youtube" width="100px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/youtube.svg" />
+  <img align="left" alt="Bunyamin's Youtube" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/youtube.svg" />
 </a>
 
 <a href="https://www.facebook.com/bunyaminnergen">
@@ -55,7 +55,7 @@ My ability to translate complex technical findings for both technical and non-te
 
 [![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
 
-## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working at **Lena Software Company**
 
 🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms** & **Prompt Engineering**
