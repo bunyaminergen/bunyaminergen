@@ -44,25 +44,32 @@ As a data scientist, I bring a unique combination of technical skills and busine
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working at **Lena Software Company**
 
-🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms**
+🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms** & **Prompt Engineering**
 
-👯‍♀️ I'm looking to collaborate on...
+👨‍🏫 I'm voluntarily offering lectures on subjects specifically related to my skill set.
 
-🤔 I'm looking for help with...
-
-💬 Ask me about anyting about **Data** anf course **my repositories**
+💬 Ask me about anyting about **Data** & **Python** & **Coding** and course **my repositories**
 
 📫 How to reach me
 
 mailto:info@bunyaminergen.com
 
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-
 ## 🛠 Skills
-Python, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS
+
+- **Programming & Software Development:**
+- **Web Development:**
+- **Data Science & Machine Learning:**
+- **Business & Analytics:**
+- **Cloud & DevOps:**
+- **Tools & Platforms:**
+- **Miscellaneous:**
+  - Photography
+- **Languages:**
+
+
+Python, Django, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS, Docker, AWS, RestAPI, NLP, Computer Vision, Prompt Engineering
+
+
 
 ![Coding](https://github.com/bunyaminergen/bunyaminergen/blob/ef88835ff47f90ab7e7cd7c6d3192b8520b776df/img/coding.gif)
 
