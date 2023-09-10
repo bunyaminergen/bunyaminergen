@@ -57,9 +57,9 @@ My ability to translate complex technical findings for both technical and non-te
 </a>
 
 </div>
-
-___
 <br style="clear:both"/>
+___
+
 
 
 
