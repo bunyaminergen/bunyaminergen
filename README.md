@@ -15,29 +15,36 @@ As a data scientist, I bring a unique combination of technical skills and busine
   <img align="left" alt="Bunyamin's Discord" width="22px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/img/discord1.svg" />
 </a>
 <a href="https://twitter.com/bunyaminnergen">
-  <img align="left" alt="Bunyamin Ergen | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
+  <img align="left" alt="Bunyamin's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/bunyaminergen/">
-  <img align="left" alt="Bunyamin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="Bunyamin's Linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bunyaminergen.github.io/)
+<a href="https://bunyaminergen.github.io/">
+  <img align="left" alt="Bunyamin's Portfolio" width="22px" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyaminergen/)
+<a href="https://medium.com/@bunyaminergen">
+  <img align="left" alt="Bunyamin's Medium" width="22px" src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge" />
+</a>
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bunyaminnergen)
+<a href="https://www.kaggle.com/bunyaminergen">
+  <img align="left" alt="Bunyamin's Kaggle" width="22px" src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge" />
+</a>
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=medium-link&style=for-the-badge)](https://medium.com/@bunyaminergen)
+<a href="https://www.youtube.com/bunyaminergen">
+  <img align="left" alt="Bunyamin's Youtube" width="22px" src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=youtube-link&style=for-the-badge&logoWidth=30" />
+</a>
 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=kaggle-link&style=for-the-badge)](https://www.kaggle.com/bunyaminergen)
+<a href="https://www.facebook.com/bunyaminnergen">
+  <img align="left" alt="Bunyamin's Facebook" width="22px" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=facebook-link&style=for-the-badge&logoWidth=30&logoHeight=30" />
+</a>
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white&link=youtube-link&style=for-the-badge&logoWidth=30)](https://www.youtube.com/bunyaminergen)
+<a href="https://bunyaminergen.com/">
+  <img align="left" alt="Bunyamin's Website" width="22px" src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome&logoColor=white&link=website-link&style=for-the-badge" />
+</a>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=instagram-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.instagram.com/bunyaminergen)
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=facebook-link&style=for-the-badge&logoWidth=30&logoHeight=30)](https://www.facebook.com/bunyaminnergen)
-
-[![Website Badge](https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome&logoColor=white&link=website-link&style=for-the-badge)](https://bunyaminergen.com/)
 
 [![Mail Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:mail-address&style=for-the-badge)](mailto:info@bunyaminergen.com) info@bunyaminergen.com
 
