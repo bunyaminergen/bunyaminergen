@@ -62,44 +62,44 @@ mailto:info@bunyaminergen.com
   - SQL
   - R
 - **Web Development:**
- - HTML & HTML5 & CSS
- - Django
- - Django REST Framework
- - Typescript
- - React
+  - HTML & HTML5 & CSS
+  - Django
+  - Django REST Framework
+  - Typescript
+  - React
 - **Data Science & Machine Learning:**
- - Machine Learning
- - Deep Learning
- - Artificial Intelligence (AI)
- - Natural Language Processing (NLP)
- - Computer Vision
- - Big Data & Analytics
- - Apache Spark
- - Data Analytics & Analysis
- - Data Visualization
- - Text Mining
+  - Machine Learning
+  - Deep Learning
+  - Artificial Intelligence (AI)
+  - Natural Language Processing (NLP)
+  - Computer Vision
+  - Big Data & Analytics
+  - Apache Spark
+  - Data Analytics & Analysis
+  - Data Visualization
+  - Text Mining
 - **Business & Analytics:**
- - Business Analytics
- - Business Intelligence (BI)
- - Customer Analytics
- - Finance and Risk Analytics
- - Social Media Analytics
- - Web Analytics
- - Customer Relationship Management (CRM)
+   - Business Analytics
+   - Business Intelligence (BI)
+   - Customer Analytics
+   - Finance and Risk Analytics
+   - Social Media Analytics
+   - Web Analytics
+   - Customer Relationship Management (CRM)
 - **Cloud & DevOps:**
- - Amazon Web Services (AWS)
- - Docker
- - Kubernetes
+   - Amazon Web Services (AWS)
+   - Docker
+   - Kubernetes
 - **Tools & Platforms:**
- - Adobe Photoshop
- - Knime
+   - Adobe Photoshop
+   - Knime
 - **Miscellaneous:**
- - Photography
+   - Photography
 - **Languages:**
-- Türkçe (Turkish)
-- (عربي )Arabic
-- English
-- 日本語 (Japanese)
+  - Türkçe (Turkish)
+  - (عربي )Arabic
+  - English
+  - 日本語 (Japanese)
 
 
 Python, Django, SQL, Machine Learning, Deep Learning,Javascript, HTML, CSS, Docker, AWS, RestAPI, NLP, Computer Vision, Prompt Engineering
