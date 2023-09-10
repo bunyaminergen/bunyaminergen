@@ -1,6 +1,10 @@
 ![Coding](https://github.com/bunyaminergen/bunyaminergen/blob/ef88835ff47f90ab7e7cd7c6d3192b8520b776df/img/coding.gif)
 
 # Bünyamin Ergen 🖥️ 
+
+---
+
+
 ## Python Developer & Data Scientist [Computer Vision, NLP, Prompt Engineering]
 
 As a multifaceted professional with expertise in Python development, Data Science, Prompt Engineering, Computer Vision, and Natural Language Processing (NLP), my skill set is both broad and deep.
@@ -67,14 +71,7 @@ My ability to translate complex technical findings for both technical and non-te
 ---
 
 
-<br/>
-<br/>
-
-
 ### ℹ Information
-
-
----
 
 
 👩‍💻 I'm currently working at **Lena Software Company**
@@ -92,9 +89,6 @@ My ability to translate complex technical findings for both technical and non-te
 
 
 ### 🛠 Skills
-
-
----
 
 
 - **Programming & Software Development:**
