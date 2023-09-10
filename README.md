@@ -13,6 +13,14 @@ My ability to translate complex technical findings for both technical and non-te
 
 ### 🔗 Links
 
+
+<br/>
+<br/>
+
+
+---
+
+
 <a href="https://www.linkedin.com/in/bunyaminergen/">
   <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
 </a>
@@ -66,6 +74,14 @@ My ability to translate complex technical findings for both technical and non-te
 
 ### ℹ Information
 
+
+<br/>
+<br/>
+
+
+---
+
+
 👩‍💻 I'm currently working at **Lena Software Company**
 
 🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms** & **Prompt Engineering**
@@ -74,12 +90,25 @@ My ability to translate complex technical findings for both technical and non-te
 
 💬 Ask me about anyting about **Data** & **Python** & **Coding** and course **my repositories**
 
-📫 How to reach me
+📫 How to reach me: mailto:info@bunyaminergen.com
 
-mailto:info@bunyaminergen.com
-</div>
+
+<br/>
+<br/>
+
+
+---
+
 
 ### 🛠 Skills
+
+
+<br/>
+<br/>
+
+
+---
+
 
 - **Programming & Software Development:**
   - Python
@@ -130,6 +159,12 @@ mailto:info@bunyaminergen.com
   - English
   - 日本語 (Japanese)
 
-**___**
+
+<br/>
+<br/>
+
+
+---
+
 
 **_Bünyamin Ergen_**
