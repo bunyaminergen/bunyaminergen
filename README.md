@@ -71,10 +71,6 @@ My ability to translate complex technical findings for both technical and non-te
 ### ℹ Information
 
 
-<br/>
-<br/>
-
-
 ---
 
 
@@ -97,10 +93,6 @@ My ability to translate complex technical findings for both technical and non-te
 
 
 ### 🛠 Skills
-
-
-<br/>
-<br/>
 
 
 ---
