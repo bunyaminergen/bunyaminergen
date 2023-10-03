@@ -78,8 +78,6 @@ My ability to translate complex technical findings for both technical and non-te
 
 👨‍🏫 I'm voluntarily offering lectures on subjects specifically related to my skill set.
 
-💬 Ask me about anyting about **Data** & **Python** & **Coding** and course **my repositories**
-
 📫 How to reach me: mailto:info@bunyaminergen.com
 
 
