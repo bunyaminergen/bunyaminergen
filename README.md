@@ -74,7 +74,7 @@ My ability to translate complex technical findings for both technical and non-te
 
 👩‍💻 I'm currently working at **Lena Software Company**
 
-🧠 I'm currently learning **Linear Algebra** &  **Advance Computer Vision Algoritms** & **Prompt Engineering**
+🧠 I'm currently learning **Prompt Engineering**
 
 👨‍🏫 I'm voluntarily offering lectures on subjects specifically related to my skill set.
 
