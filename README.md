@@ -3,7 +3,7 @@
 # Bünyamin Ergen 🖥️ 
 
 
-## Python Developer & Data Scientist [Computer Vision, NLP, Prompt Engineering]
+## AI Engineer & Python Developer
 
 As a multifaceted professional with expertise in Python development, Data Science, Prompt Engineering, Computer Vision, and Natural Language Processing (NLP), my skill set is both broad and deep.
 
