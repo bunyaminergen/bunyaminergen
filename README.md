@@ -72,7 +72,7 @@ My ability to translate complex technical findings for both technical and non-te
 ### ℹ Information
 
 
-👩‍💻 I'm currently working at **Lena Software Company**
+👩‍💻 I'm currently working at **The We Media, WE7 AI** as an AI Engineer
 
 🧠 I'm currently learning **Prompt Engineering**
 
