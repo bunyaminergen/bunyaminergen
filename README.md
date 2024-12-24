@@ -1,15 +1,11 @@
 
 # Bünyamin Ergen 🖥️ 
 
-
 ## Artificial Intelligence Engineer
-
 
 ---
 
-
 ### 🔗 Links
-
 
 <a href="https://www.linkedin.com/in/bunyaminergen/">
   <img align="left" alt="Bunyamin's Linkedin" width="50px" src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" />
@@ -27,8 +23,5 @@
 <br/>
 
 ---
-
----
-
 
 **_Bünyamin Ergen_**
