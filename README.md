@@ -3,8 +3,6 @@
 
 ## Artificial Intelligence Engineer
 
----
-
 ### 🔗 Links
 
 <a href="https://www.linkedin.com/in/bunyaminergen/">
