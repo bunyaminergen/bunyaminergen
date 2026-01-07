@@ -2,8 +2,6 @@
 
 ## AI Researcher
 
-## Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/bunyaminergen/" target="_blank">
     <img src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/linkedin.svg" alt="LinkedIn" width="40" />
