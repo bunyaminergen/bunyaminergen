@@ -1,5 +1,5 @@
 # Bünyamin Ergen
-## AI Researcher
+AI Researcher
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bunyaminergen/" target="_blank">
