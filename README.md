@@ -2,7 +2,7 @@
 
 ## AI Researcher
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bunyaminergen/" target="_blank">
