@@ -1,7 +1,7 @@
 
 # Bünyamin Ergen 🖥️ 
 
-## AI Engineer
+## AI Researcher
 
 ### 🔗 Links
 
