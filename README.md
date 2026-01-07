@@ -2,8 +2,6 @@
 
 ## AI Researcher
 
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
@@ -17,6 +15,3 @@
     <img src="https://raw.githubusercontent.com/bunyaminergen/bunyaminergen/master/icons/envelope.svg" alt="Email" width="40" />
   </a>
 </p>
-
----
----
