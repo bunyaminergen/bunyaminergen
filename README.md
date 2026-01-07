@@ -1,5 +1,4 @@
 # Bünyamin Ergen
-
 ## AI Researcher
 
 <p align="left">
