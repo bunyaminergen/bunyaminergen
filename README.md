@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Bünyamin Ergen
+# Bünyamin Ergen
 
-## 🤖 AI Researcher | Machine Learning Engineer
-
-I am an AI Researcher focused on **machine learning**, **deep learning**, and **applied AI systems**.  
-My interests include building scalable models, experimenting with new architectures, and turning research into real-world solutions.
+## AI Researcher
 
 ---
 
@@ -22,27 +19,4 @@ My interests include building scalable models, experimenting with new architectu
 </p>
 
 ---
-
-## 🧠 Research Interests
-- Machine Learning & Deep Learning  
-- Generative AI & Foundation Models  
-- Computer Vision / NLP *(isteğe göre netleştirilebilir)*  
-- AI for real-world applications
-
 ---
-
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, SQL  
-- **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-- **Tools:** Docker, Git, Linux, CUDA  
-
----
-
-## 📌 Current Focus
-- Exploring state-of-the-art AI models  
-- Improving model efficiency & performance  
-- Publishing research-oriented and open-source projects
-
----
-
-⭐️ *Feel free to explore my repositories and reach out for collaboration.*
